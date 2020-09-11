@@ -1,27 +1,27 @@
 
 
-is_hot = True
+# is_hot = False
 
-if is_hot:
-  print("it's a hot day")
-  print("drink plenty of water")
-print("enjoy your day")
+# if is_hot:
+#   print("it's a hot day")
+#   print("drink plenty of water")
+# print("enjoy your day")
 
 # note: shift + tab, para maka exit sa if statement.
 
 
-is_hot2 = False
-if is_hot2:
-  print("grabe init")
-else:
-  print("ahh tama lang")
+# is_hot2 = False
+# if is_hot2:
+#   print("grabe init")
+# else:
+#   print("ahh tama lang")
 
 
 
 
 
 is_hot3 = False
-is_cold3 = True
+is_cold3 = False
 if is_hot3:
   print("it's hot 3")
 elif is_cold3:

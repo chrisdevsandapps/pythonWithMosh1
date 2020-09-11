@@ -1,25 +1,38 @@
 
 
-print("hello world")
+# print("hello world")
 
-xxx = "hahaha"
+# hehehe = "hahaha"
 
-print(xxx)
-
-
-
-aaa = 10
-bbb = 8.8
-
-print(aaa + bbb)
-
-ccc = aaa + bbb
-print(ccc)
+# print(hehehe)
 
 
-# logic
-is_published = True
-print(is_published)
+
+# print('o----')
+# print(' ||||')
+# print('*' * 10)
+# print('x' * 10)
+
+
+# # integer
+# aaa = 10
+
+# # float
+# bbb = 8.8
+
+# # string
+# name = 'bill gates'
+
+# # boolean
+# is_published = True
+# print(is_published)
+
+
+# print(aaa + bbb)
+
+# ccc = aaa + bbb
+# print(ccc)
+# print(type(ccc))
 
 
 

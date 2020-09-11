@@ -34,3 +34,7 @@ print(x7)
 print('Python' in course)
 
 print('Jython' in course)
+
+print('g' in course)
+
+print('x' in course)

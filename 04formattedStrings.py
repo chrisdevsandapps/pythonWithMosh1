@@ -15,6 +15,6 @@ output2 = f'{first} [{last}] is a coder'
 print(output2)
 
 
-# another example
+
 
 
